@@ -8,4 +8,3 @@ total = price * quantity
 
 print(f"you have brought {quantity} x {item}/s")
 print(f"Your total is: ${total}")
-j
