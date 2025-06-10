@@ -2,7 +2,7 @@
     # Set = {} unordered and immutable, but Add/Remove OK. NO duplicates
 
 # example of a set
-fruits = {"apple", "orange", "banana", "coconut"}
+fruits = {"apple", "orange", "banana", "coconut", "coconut"}
 
 print("length of the set is: ", len(fruits)) # get the lenth of set fruits
 

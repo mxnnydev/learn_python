@@ -1,6 +1,6 @@
 # collection = single "variable" used to store multiple values
     # List = [] ordered and changeable. Duplicates OK
-    # Tuple = () ordered and unchangeable. Duplicates OK. FAST
+
 
 # example of a list
 fruits = ["apple", "orange", "banana", "coconut"]
