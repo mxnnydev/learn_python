@@ -17,3 +17,5 @@ def time_calc(sec):
     seconds = sec % 60
 
     return f"{hours:02}:{minutes:02}:{seconds:02}"
+
+print(f"The following time based on seconds is {time_calc(3665)}")
