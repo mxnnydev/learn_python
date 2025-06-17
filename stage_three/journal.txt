@@ -1,2 +1,3 @@
-Today I learned file handling.
-Tomorrow I'll build an app.
+I like programming
+I like cricket
+I like boxing
